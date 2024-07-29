@@ -1,8 +1,10 @@
 #include "Player.h"
 
+using namespace std;
+
 SDL_Texture * Player::playerTextures[];
 
-Player::Player(std::shared_ptr<Room> setRoom, SDL_Renderer * renderer) :
+Player::Player(shared_ptr<Room> setRoom, SDL_Renderer * renderer) :
 	MazeObject::MazeObject(setRoom), startRoom(setRoom)
 {
 	if (playerTextures[0] == NULL)
