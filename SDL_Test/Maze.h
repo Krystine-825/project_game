@@ -29,13 +29,13 @@ private:
 	int mazeX_RoomCount;
 	int mazeY_RoomCount;
 	
-	//Information about rendering size for the maze
+	//Information about size for the maze
 	int mazeX_Offset;
 	int mazeY_Offset;
 	int mazeX_Size;
 	int mazeY_Size;
 
-	//Determines how far apart traps are spaced
+	//Determines how far apart traps
 	int obstacleSpacing = 3;	
 
 	//All rooms in the Maze

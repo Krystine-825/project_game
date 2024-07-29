@@ -155,7 +155,6 @@ xcopy /y /e /d  "$(ProjectDir)res" "$(SolutionDir)$(Configuration)\res"</Command
     <ClInclude Include="Room.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Coordinate.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Maze.cpp" />
     <ClCompile Include="MazeDoor.cpp" />
