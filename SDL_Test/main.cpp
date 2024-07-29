@@ -7,6 +7,8 @@
 #include "Maze.h"
 #include "Player.h"
 
+using namespace std;
+
 #define IMG_TITLE "res/Images/Title.png"
 #define IMG_GAMEOVER "res/Images/GameOver.png"
 #define TEXTFILE "res/Text/TitleFont.ttf"
@@ -141,7 +143,7 @@ void FullScreenTexture(const char* fileName)
 }
 
 //Draw Text On Screen in a set, boxed area
-void DrawTextFromRect(std::string text, SDL_Rect * textRect, int fontSize)
+void DrawTextFromRect(string text, SDL_Rect * textRect, int fontSize)
 {
 	//Select Font and Color
 	TTF_Font *font = TTF_OpenFont(TEXTFILE, fontSize);
@@ -172,7 +174,7 @@ void DrawTextFromRect(std::string text, SDL_Rect * textRect, int fontSize)
 }
 
 //Draw Text based off parameters passed
-void DrawTextFromRectParams(std::string text, int xOffset, int yOffset, int width, int height, int fontSize)
+void DrawTextFromRectParams(string text, int xOffset, int yOffset, int width, int height, int fontSize)
 {
 	//Create Rect where Text will go
 	SDL_Rect textRect = { 
@@ -186,7 +188,7 @@ void DrawTextFromRectParams(std::string text, int xOffset, int yOffset, int widt
 
 //Draw Text on Screen that has a number next to it. This is more for visual 
 //effect of the data string being centered in a small box next to its associated text.
-void DrawTextWithAdjCenteredNumber(std::string text, std::string count, int xOffset, int yOffset, int width, int height, int fontSize)
+void DrawTextWithAdjCenteredNumber(string text, string count, int xOffset, int yOffset, int width, int height, int fontSize)
 {
 	//Write Text Portion
 	int textXOffset = xOffset;
@@ -204,7 +206,7 @@ void DrawTextWithAdjCenteredNumber(std::string text, std::string count, int xOff
 }
 
 //Adds Multiple Rows of Text to the Renderer. 
-void DrawTextMultipleRows(std::vector<std::string> &text, std::vector<std::string> &data, int xOffset, int yOffset, int width, int height, int fontSize)
+void DrawTextMultipleRows(vector<string> &text, vector<string> &data, int xOffset, int yOffset, int width, int height, int fontSize)
 {
 	int rowCount = text.size();
 	int rowHeight = height / rowCount;
@@ -223,10 +225,10 @@ void DrawTextMultipleRows(std::vector<std::string> &text, std::vector<std::strin
 }
 
 //Draws in-game information
-void DrawInGameGUI(std::string level, std::string steps, std::string lives)
+void DrawInGameGUI(string level, string steps, string lives)
 {
-	std::vector<std::string> infoTexts = {"Level", "Steps", "Lives", "R to Reset", "ESC to Menu" };
-	std::vector<std::string> dataTexts =  { level, steps, lives };
+	vector<string> infoTexts = {"Level", "Steps", "Lives", "R to Reset", "ESC to Menu" };
+	vector<string> dataTexts =  { level, steps, lives };
 	DrawTextFromRect("LABYRINTH ESCAPE!", &GameTitleFillRect, GameTitle_FontSize);
 	DrawTextMultipleRows(infoTexts, dataTexts, GameInfo_xOffset, GameInfo_yOffset, GameInfo_Width, GameInfo_Height, 42);
 }
@@ -234,7 +236,7 @@ void DrawInGameGUI(std::string level, std::string steps, std::string lives)
 //Draw in-game information with ints instead of Strings
 void DrawInGameGUI(int level, int steps, int lives)
 {
-	DrawInGameGUI(std::to_string(level), std::to_string(steps), std::to_string(lives));
+	DrawInGameGUI(to_string(level), to_string(steps), to_string(lives));
 }
 
 //Draw in-game information using "-" for blank counts of particular data
@@ -291,8 +293,8 @@ bool LevelCompleteScreen(int steps, int deaths)
 	DrawTextFromRect("Level Complete!", &levelCompleteTitleRect, LevelComplete_FontSize);
 
 	//Information in Level Complete Panel
-	std::vector<std::string> levelComplete_TextRows = { "Steps Taken", "Lives Lost", "Press Space To Continue" };
-	std::vector<std::string> levelComplete_DataRows = { std::to_string(steps), std::to_string(deaths) };
+	vector<string> levelComplete_TextRows = { "Steps Taken", "Lives Lost", "Press Space To Continue" };
+	vector<string> levelComplete_DataRows = { to_string(steps), to_string(deaths) };
 
 	//Add Information To Renderer in Multiple Rows
 	DrawTextMultipleRows(levelComplete_TextRows, levelComplete_DataRows, levelCompleteInfoRect.x, levelCompleteInfoRect.y, levelCompleteInfoRect.w, levelCompleteInfoRect.h, 42);
@@ -311,7 +313,7 @@ bool LevelCompleteScreen(int steps, int deaths)
 }
 
 //Renders all necessary objects to the screen
-void RenderAllGameObjects(std::shared_ptr<Maze> & maze, std::shared_ptr<Player> & player, int &steps)
+void RenderAllGameObjects(shared_ptr<Maze> & maze, shared_ptr<Player> & player, int &steps)
 {
 	SDL_SetRenderDrawColor(renderer, 0, 0, 0, 255);
 	SDL_RenderClear(renderer);
@@ -337,7 +339,7 @@ void RenderAllGameObjects(std::shared_ptr<Maze> & maze, std::shared_ptr<Player> 
 }
 
 //Reset the maze to the Initial Conditions
-void ResetToStart(std::shared_ptr<Maze> & maze, std::shared_ptr<Player> & player, int *level, int* steps, int* lives)
+void ResetToStart(shared_ptr<Maze> & maze, shared_ptr<Player> & player, int *level, int* steps, int* lives)
 {
 	*level = 1;
 	*steps = 0;
@@ -366,8 +368,8 @@ int main(int argc, char *argv[])
 		bool firstLoad = true;
 		bool quit = false;
 		
-		std::shared_ptr<Maze> curMaze;
-		std::shared_ptr<Player> curPlayer;
+		shared_ptr<Maze> curMaze;
+		shared_ptr<Player> curPlayer;
 		
 		//Get the SDL Starting Event
 		SDL_Event * gameEvent = new SDL_Event;
@@ -394,10 +396,10 @@ int main(int argc, char *argv[])
 					//First time the game is loaded
 					if (firstLoad)
 					{
-						curMaze = std::shared_ptr<Maze>(new Maze(mazeX, mazeY, 
+						curMaze = shared_ptr<Maze>(new Maze(mazeX, mazeY, 
 							GameArea_xOffset, GameArea_yOffset, GameArea_Width, 
 							GameArea_Height, renderer, level, false));
-						curPlayer = std::shared_ptr<Player>
+						curPlayer = shared_ptr<Player>
 							(new Player(curMaze->FindRoomByPos(curMaze->startPos), 
 										renderer));
 						levelStartLives = curPlayer->playerLives;
@@ -471,7 +473,7 @@ int main(int argc, char *argv[])
 						}
 					}
 					else {
-						std::cout << "Not a valid Key input!" << std::endl;
+						cout << "Not a valid Key input!" << endl;
 					}
 					RenderAllGameObjects(curMaze, curPlayer, steps);
 				}
@@ -481,7 +483,7 @@ int main(int argc, char *argv[])
 			while (!quit && gameEvent->type != SDL_QUIT && curGameState == LevelComplete)
 			{
 				//Display level complete stats
-				quit = LevelCompleteScreen(steps, std::max(0, levelStartLives - curPlayer->playerLives));
+				quit = LevelCompleteScreen(steps, max(0, levelStartLives - curPlayer->playerLives));
 				if (quit)
 				{
 					break;

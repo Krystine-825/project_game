@@ -23,7 +23,7 @@ public:
 	
 	bool hasKey = false;
 
-	//Sets the player back to start
+	//Sets back to start
 	void SetPlayerToStart(std::shared_ptr<Room> room)
 	{
 		hasKey = false;
