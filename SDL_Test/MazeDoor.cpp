@@ -1,5 +1,7 @@
 #include "MazeDoor.h"
 
+using namespace std;
+
 SDL_Texture * MazeDoor::doorTexture;
 
 MazeDoor::MazeDoor(std::shared_ptr<Room> setRoom) :
