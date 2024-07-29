@@ -9,6 +9,43 @@
   Player.cpp
   Room.cpp
   Generating Code...
-  SDL_Test.vcxproj -> C:\Users\Phuc Hoang\OneDrive\Desktop\For HKII\A-Maze-Game-master\Debug\SDL_Test.exe
-  0 File(s) copied
-  0 File(s) copied
+  SDL_Test.vcxproj -> E:\Linh\project_game\Debug\SDL_Test.exe
+  E:\Linh\project_game\SDL_Test\libfreetype-6.dll
+  E:\Linh\project_game\SDL_Test\libjpeg-9.dll
+  E:\Linh\project_game\SDL_Test\libpng16-16.dll
+  E:\Linh\project_game\SDL_Test\libtiff-5.dll
+  E:\Linh\project_game\SDL_Test\libwebp-7.dll
+  E:\Linh\project_game\SDL_Test\SDL2.dll
+  E:\Linh\project_game\SDL_Test\SDL2_image.dll
+  E:\Linh\project_game\SDL_Test\SDL2_ttf.dll
+  E:\Linh\project_game\SDL_Test\zlib1.dll
+  9 File(s) copied
+  E:\Linh\project_game\SDL_Test\res\Images\GameOver.png
+  E:\Linh\project_game\SDL_Test\res\Images\Guard.png
+  E:\Linh\project_game\SDL_Test\res\Images\Key.png
+  E:\Linh\project_game\SDL_Test\res\Images\Lock.png
+  E:\Linh\project_game\SDL_Test\res\Images\PlayerDown.png
+  E:\Linh\project_game\SDL_Test\res\Images\PlayerLeft.png
+  E:\Linh\project_game\SDL_Test\res\Images\PlayerRight.png
+  E:\Linh\project_game\SDL_Test\res\Images\PlayerUp.png
+  E:\Linh\project_game\SDL_Test\res\Images\Room_0Border.png
+  E:\Linh\project_game\SDL_Test\res\Images\Room_1Border_D.png
+  E:\Linh\project_game\SDL_Test\res\Images\Room_1Border_L.png
+  E:\Linh\project_game\SDL_Test\res\Images\Room_1Border_R.png
+  E:\Linh\project_game\SDL_Test\res\Images\Room_1Border_U.png
+  E:\Linh\project_game\SDL_Test\res\Images\Room_2Border_D_L.png
+  E:\Linh\project_game\SDL_Test\res\Images\Room_2Border_D_R.png
+  E:\Linh\project_game\SDL_Test\res\Images\Room_2Border_D_U.png
+  E:\Linh\project_game\SDL_Test\res\Images\Room_2Border_L_R.png
+  E:\Linh\project_game\SDL_Test\res\Images\Room_2Border_L_U.png
+  E:\Linh\project_game\SDL_Test\res\Images\Room_2Border_U_R.png
+  E:\Linh\project_game\SDL_Test\res\Images\Room_3Border_D_L_R.png
+  E:\Linh\project_game\SDL_Test\res\Images\Room_3Border_D_L_U.png
+  E:\Linh\project_game\SDL_Test\res\Images\Room_3Border_D_U_R.png
+  E:\Linh\project_game\SDL_Test\res\Images\Room_3Border_L_U_R.png
+  E:\Linh\project_game\SDL_Test\res\Images\Room_4Border.png
+  E:\Linh\project_game\SDL_Test\res\Images\SpikeTrapActive.png
+  E:\Linh\project_game\SDL_Test\res\Images\SpikeTrapInactive.png
+  E:\Linh\project_game\SDL_Test\res\Images\Title.png
+  E:\Linh\project_game\SDL_Test\res\Text\TitleFont.ttf
+  28 File(s) copied
