@@ -4,7 +4,7 @@ using namespace std;
 
 SDL_Texture * MazeDoor::doorTexture;
 
-MazeDoor::MazeDoor(std::shared_ptr<Room> setRoom) :
+MazeDoor::MazeDoor(shared_ptr<Room> setRoom) :
 	MazeObject::MazeObject(setRoom)
 {
 	if (doorTexture == NULL)
