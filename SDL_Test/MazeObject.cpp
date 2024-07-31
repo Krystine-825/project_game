@@ -1,6 +1,8 @@
 #include "MazeObject.h"
 
-MazeObject::MazeObject(std::shared_ptr<Room> room) :
+using namespace std;
+
+MazeObject::MazeObject(shared_ptr<Room> room) :
 	curObjRoom(room),
 	objRenderer(room->roomRenderer),
 	objPos(room->roomPos)
