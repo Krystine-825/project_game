@@ -1,8 +1,10 @@
 #include "MazeGuard.h"
 
+using namespace std;
+
 SDL_Texture * MazeGuard::guardTexture;
 
-MazeGuard::MazeGuard(std::shared_ptr<Room> setRoom) :
+MazeGuard::MazeGuard(shared_ptr<Room> setRoom) :
 	guardCenterRoomPtr(setRoom),
 	guardIter(begin(setRoom->connectRooms)),
 	guardCurRoomPtr(*(begin(setRoom->connectRooms))),
