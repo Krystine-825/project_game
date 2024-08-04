@@ -1,8 +1,10 @@
 #include "MazeKey.h"
 
+using namespace std;
+
 SDL_Texture * MazeKey::keyTexture;
 
-MazeKey::MazeKey(std::shared_ptr<Room> setRoom) :
+MazeKey::MazeKey(shared_ptr<Room> setRoom) :
 	MazeObject::MazeObject(setRoom)
 {
 	if(keyTexture == NULL)
