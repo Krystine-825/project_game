@@ -1,5 +1,7 @@
 #include "MazeTrap.h"
 
+using namespace std;
+
 SDL_Texture * MazeTrap::trapActiveTexture;
 SDL_Texture * MazeTrap::trapInactiveTexture;
 
