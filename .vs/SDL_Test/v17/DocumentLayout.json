@@ -1,82 +1,82 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Linh\\project_game - Copy\\",
+  "WorkspaceRootPath": "E:\\Linh\\project_game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game - Copy\\SDL_Test\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|solutionrelative:SDL_Test\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game - Copy\\SDL_Test\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game\\SDL_Test\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|solutionrelative:SDL_Test\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game - Copy\\SDL_Test\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|solutionrelative:SDL_Test\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game - Copy\\SDL_Test\\Room.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game\\SDL_Test\\Room.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|solutionrelative:SDL_Test\\Room.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game - Copy\\SDL_Test\\MazeTrap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|solutionrelative:SDL_Test\\MazeTrap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game\\SDL_Test\\MazeTrap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|solutionrelative:SDL_Test\\MazeTrap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game - Copy\\SDL_Test\\MazeObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|solutionrelative:SDL_Test\\MazeObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game\\SDL_Test\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|solutionrelative:SDL_Test\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game - Copy\\SDL_Test\\MazeKey.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|solutionrelative:SDL_Test\\MazeKey.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game\\SDL_Test\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|solutionrelative:SDL_Test\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game - Copy\\SDL_Test\\MazeGuard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|solutionrelative:SDL_Test\\MazeGuard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game - Copy\\SDL_Test\\MazeDoor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|solutionrelative:SDL_Test\\MazeDoor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game - Copy\\SDL_Test\\Maze.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|solutionrelative:SDL_Test\\Maze.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game - Copy\\SDL_Test\\Coordinate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|solutionrelative:SDL_Test\\Coordinate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game - Copy\\SDL_Test\\Coordinate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|solutionrelative:SDL_Test\\Coordinate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game - Copy\\SDL_Test\\Room.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|solutionrelative:SDL_Test\\Room.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game - Copy\\SDL_Test\\Maze.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game\\SDL_Test\\Maze.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|solutionrelative:SDL_Test\\Maze.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game - Copy\\SDL_Test\\MazeDoor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game\\SDL_Test\\Maze.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|solutionrelative:SDL_Test\\Maze.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game\\SDL_Test\\MazeTrap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|solutionrelative:SDL_Test\\MazeTrap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game\\SDL_Test\\MazeObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|solutionrelative:SDL_Test\\MazeObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game\\SDL_Test\\MazeDoor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|solutionrelative:SDL_Test\\MazeDoor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game - Copy\\SDL_Test\\MazeGuard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|solutionrelative:SDL_Test\\MazeGuard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game\\SDL_Test\\Coordinate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|solutionrelative:SDL_Test\\Coordinate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game - Copy\\SDL_Test\\MazeKey.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|solutionrelative:SDL_Test\\MazeKey.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game - Copy\\SDL_Test\\MazeObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game\\SDL_Test\\MazeObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|solutionrelative:SDL_Test\\MazeObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game - Copy\\SDL_Test\\MazeTrap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|solutionrelative:SDL_Test\\MazeTrap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game\\SDL_Test\\MazeDoor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|solutionrelative:SDL_Test\\MazeDoor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game\\SDL_Test\\Room.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|solutionrelative:SDL_Test\\Room.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game\\SDL_Test\\Coordinate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|solutionrelative:SDL_Test\\Coordinate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game\\SDL_Test\\MazeKey.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|solutionrelative:SDL_Test\\MazeKey.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game\\SDL_Test\\MazeGuard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|solutionrelative:SDL_Test\\MazeGuard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game\\SDL_Test\\MazeKey.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|solutionrelative:SDL_Test\\MazeKey.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|E:\\Linh\\project_game\\SDL_Test\\MazeGuard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB1A956B-AB59-4F17-B83E-50BC500A1558}|SDL_Test\\SDL_Test.vcxproj|solutionrelative:SDL_Test\\MazeGuard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,63 +86,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Player.h",
-              "DocumentMoniker": "E:\\Linh\\project_game - Copy\\SDL_Test\\Player.h",
-              "RelativeDocumentMoniker": "SDL_Test\\Player.h",
-              "ToolTip": "E:\\Linh\\project_game - Copy\\SDL_Test\\Player.h",
-              "RelativeToolTip": "SDL_Test\\Player.h",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-29T14:44:59.353Z"
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
+              "Title": "Player.h",
+              "DocumentMoniker": "E:\\Linh\\project_game\\SDL_Test\\Player.h",
+              "RelativeDocumentMoniker": "SDL_Test\\Player.h",
+              "ToolTip": "E:\\Linh\\project_game\\SDL_Test\\Player.h",
+              "RelativeToolTip": "SDL_Test\\Player.h",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-29T14:44:59.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Maze.h",
-              "DocumentMoniker": "E:\\Linh\\project_game - Copy\\SDL_Test\\Maze.h",
+              "DocumentMoniker": "E:\\Linh\\project_game\\SDL_Test\\Maze.h",
               "RelativeDocumentMoniker": "SDL_Test\\Maze.h",
-              "ToolTip": "E:\\Linh\\project_game - Copy\\SDL_Test\\Maze.h",
+              "ToolTip": "E:\\Linh\\project_game\\SDL_Test\\Maze.h",
               "RelativeToolTip": "SDL_Test\\Maze.h",
-              "ViewState": "AQIAAGYAAAAAAAAAAAAAADsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-07-29T14:44:59.378Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "MazeTrap.h",
-              "DocumentMoniker": "E:\\Linh\\project_game - Copy\\SDL_Test\\MazeTrap.h",
+              "DocumentMoniker": "E:\\Linh\\project_game\\SDL_Test\\MazeTrap.h",
               "RelativeDocumentMoniker": "SDL_Test\\MazeTrap.h",
-              "ToolTip": "E:\\Linh\\project_game - Copy\\SDL_Test\\MazeTrap.h",
+              "ToolTip": "E:\\Linh\\project_game\\SDL_Test\\MazeTrap.h",
               "RelativeToolTip": "SDL_Test\\MazeTrap.h",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-07-29T14:44:59.379Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "MazeObject.h",
-              "DocumentMoniker": "E:\\Linh\\project_game - Copy\\SDL_Test\\MazeObject.h",
+              "DocumentMoniker": "E:\\Linh\\project_game\\SDL_Test\\MazeObject.h",
               "RelativeDocumentMoniker": "SDL_Test\\MazeObject.h",
-              "ToolTip": "E:\\Linh\\project_game - Copy\\SDL_Test\\MazeObject.h",
+              "ToolTip": "E:\\Linh\\project_game\\SDL_Test\\MazeObject.h",
               "RelativeToolTip": "SDL_Test\\MazeObject.h",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-07-29T14:44:59.38Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "MazeKey.h",
-              "DocumentMoniker": "E:\\Linh\\project_game - Copy\\SDL_Test\\MazeKey.h",
+              "DocumentMoniker": "E:\\Linh\\project_game\\SDL_Test\\MazeKey.h",
               "RelativeDocumentMoniker": "SDL_Test\\MazeKey.h",
-              "ToolTip": "E:\\Linh\\project_game - Copy\\SDL_Test\\MazeKey.h",
+              "ToolTip": "E:\\Linh\\project_game\\SDL_Test\\MazeKey.h",
               "RelativeToolTip": "SDL_Test\\MazeKey.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -150,11 +163,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 18,
               "Title": "MazeGuard.h",
-              "DocumentMoniker": "E:\\Linh\\project_game - Copy\\SDL_Test\\MazeGuard.h",
+              "DocumentMoniker": "E:\\Linh\\project_game\\SDL_Test\\MazeGuard.h",
               "RelativeDocumentMoniker": "SDL_Test\\MazeGuard.h",
-              "ToolTip": "E:\\Linh\\project_game - Copy\\SDL_Test\\MazeGuard.h",
+              "ToolTip": "E:\\Linh\\project_game\\SDL_Test\\MazeGuard.h",
               "RelativeToolTip": "SDL_Test\\MazeGuard.h",
               "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -162,11 +175,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "MazeDoor.h",
-              "DocumentMoniker": "E:\\Linh\\project_game - Copy\\SDL_Test\\MazeDoor.h",
+              "DocumentMoniker": "E:\\Linh\\project_game\\SDL_Test\\MazeDoor.h",
               "RelativeDocumentMoniker": "SDL_Test\\MazeDoor.h",
-              "ToolTip": "E:\\Linh\\project_game - Copy\\SDL_Test\\MazeDoor.h",
+              "ToolTip": "E:\\Linh\\project_game\\SDL_Test\\MazeDoor.h",
               "RelativeToolTip": "SDL_Test\\MazeDoor.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -174,60 +187,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Room.cpp",
-              "DocumentMoniker": "E:\\Linh\\project_game - Copy\\SDL_Test\\Room.cpp",
+              "DocumentMoniker": "E:\\Linh\\project_game\\SDL_Test\\Room.cpp",
               "RelativeDocumentMoniker": "SDL_Test\\Room.cpp",
-              "ToolTip": "E:\\Linh\\project_game - Copy\\SDL_Test\\Room.cpp",
+              "ToolTip": "E:\\Linh\\project_game\\SDL_Test\\Room.cpp",
               "RelativeToolTip": "SDL_Test\\Room.cpp",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAACsAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-29T14:44:59.382Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "main.cpp",
-              "DocumentMoniker": "E:\\Linh\\project_game - Copy\\SDL_Test\\main.cpp",
+              "DocumentMoniker": "E:\\Linh\\project_game\\SDL_Test\\main.cpp",
               "RelativeDocumentMoniker": "SDL_Test\\main.cpp",
-              "ToolTip": "E:\\Linh\\project_game - Copy\\SDL_Test\\main.cpp",
+              "ToolTip": "E:\\Linh\\project_game\\SDL_Test\\main.cpp",
               "RelativeToolTip": "SDL_Test\\main.cpp",
-              "ViewState": "AQIAADUBAAAAAAAAAAAAAEIBAAA2AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIBAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-29T14:44:59.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T14:44:59.418Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Player.cpp",
-              "DocumentMoniker": "E:\\Linh\\project_game - Copy\\SDL_Test\\Player.cpp",
+              "DocumentMoniker": "E:\\Linh\\project_game\\SDL_Test\\Player.cpp",
               "RelativeDocumentMoniker": "SDL_Test\\Player.cpp",
-              "ToolTip": "E:\\Linh\\project_game - Copy\\SDL_Test\\Player.cpp",
+              "ToolTip": "E:\\Linh\\project_game\\SDL_Test\\Player.cpp",
               "RelativeToolTip": "SDL_Test\\Player.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-29T14:44:59.63Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Room.h",
-              "DocumentMoniker": "E:\\Linh\\project_game - Copy\\SDL_Test\\Room.h",
+              "DocumentMoniker": "E:\\Linh\\project_game\\SDL_Test\\Room.h",
               "RelativeDocumentMoniker": "SDL_Test\\Room.h",
-              "ToolTip": "E:\\Linh\\project_game - Copy\\SDL_Test\\Room.h",
+              "ToolTip": "E:\\Linh\\project_game\\SDL_Test\\Room.h",
               "RelativeToolTip": "SDL_Test\\Room.h",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAYwF8AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-07-29T14:44:59.631Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Coordinate.h",
-              "DocumentMoniker": "E:\\Linh\\project_game - Copy\\SDL_Test\\Coordinate.h",
+              "DocumentMoniker": "E:\\Linh\\project_game\\SDL_Test\\Coordinate.h",
               "RelativeDocumentMoniker": "SDL_Test\\Coordinate.h",
-              "ToolTip": "E:\\Linh\\project_game - Copy\\SDL_Test\\Coordinate.h",
+              "ToolTip": "E:\\Linh\\project_game\\SDL_Test\\Coordinate.h",
               "RelativeToolTip": "SDL_Test\\Coordinate.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -235,85 +247,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "Maze.cpp",
-              "DocumentMoniker": "E:\\Linh\\project_game - Copy\\SDL_Test\\Maze.cpp",
+              "DocumentMoniker": "E:\\Linh\\project_game\\SDL_Test\\Maze.cpp",
               "RelativeDocumentMoniker": "SDL_Test\\Maze.cpp",
-              "ToolTip": "E:\\Linh\\project_game - Copy\\SDL_Test\\Maze.cpp",
+              "ToolTip": "E:\\Linh\\project_game\\SDL_Test\\Maze.cpp",
               "RelativeToolTip": "SDL_Test\\Maze.cpp",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-29T14:44:59.632Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 9,
               "Title": "MazeDoor.cpp",
-              "DocumentMoniker": "E:\\Linh\\project_game - Copy\\SDL_Test\\MazeDoor.cpp",
+              "DocumentMoniker": "E:\\Linh\\project_game\\SDL_Test\\MazeDoor.cpp",
               "RelativeDocumentMoniker": "SDL_Test\\MazeDoor.cpp",
-              "ToolTip": "E:\\Linh\\project_game - Copy\\SDL_Test\\MazeDoor.cpp",
+              "ToolTip": "E:\\Linh\\project_game\\SDL_Test\\MazeDoor.cpp",
               "RelativeToolTip": "SDL_Test\\MazeDoor.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-29T14:44:59.633Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "MazeGuard.cpp",
-              "DocumentMoniker": "E:\\Linh\\project_game - Copy\\SDL_Test\\MazeGuard.cpp",
-              "RelativeDocumentMoniker": "SDL_Test\\MazeGuard.cpp",
-              "ToolTip": "E:\\Linh\\project_game - Copy\\SDL_Test\\MazeGuard.cpp",
-              "RelativeToolTip": "SDL_Test\\MazeGuard.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-29T14:44:59.633Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "MazeKey.cpp",
-              "DocumentMoniker": "E:\\Linh\\project_game - Copy\\SDL_Test\\MazeKey.cpp",
-              "RelativeDocumentMoniker": "SDL_Test\\MazeKey.cpp",
-              "ToolTip": "E:\\Linh\\project_game - Copy\\SDL_Test\\MazeKey.cpp",
-              "RelativeToolTip": "SDL_Test\\MazeKey.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "MazeGuard.cpp",
+              "DocumentMoniker": "E:\\Linh\\project_game\\SDL_Test\\MazeGuard.cpp",
+              "RelativeDocumentMoniker": "SDL_Test\\MazeGuard.cpp",
+              "ToolTip": "E:\\Linh\\project_game\\SDL_Test\\MazeGuard.cpp",
+              "RelativeToolTip": "SDL_Test\\MazeGuard.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-29T14:44:59.634Z"
+              "WhenOpened": "2024-07-29T14:44:59.633Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "MazeObject.cpp",
-              "DocumentMoniker": "E:\\Linh\\project_game - Copy\\SDL_Test\\MazeObject.cpp",
-              "RelativeDocumentMoniker": "SDL_Test\\MazeObject.cpp",
-              "ToolTip": "E:\\Linh\\project_game - Copy\\SDL_Test\\MazeObject.cpp",
-              "RelativeToolTip": "SDL_Test\\MazeObject.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 15,
+              "Title": "MazeKey.cpp",
+              "DocumentMoniker": "E:\\Linh\\project_game\\SDL_Test\\MazeKey.cpp",
+              "RelativeDocumentMoniker": "SDL_Test\\MazeKey.cpp",
+              "ToolTip": "E:\\Linh\\project_game\\SDL_Test\\MazeKey.cpp",
+              "RelativeToolTip": "SDL_Test\\MazeKey.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-29T14:44:59.634Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "MazeObject.cpp",
+              "DocumentMoniker": "E:\\Linh\\project_game\\SDL_Test\\MazeObject.cpp",
+              "RelativeDocumentMoniker": "SDL_Test\\MazeObject.cpp",
+              "ToolTip": "E:\\Linh\\project_game\\SDL_Test\\MazeObject.cpp",
+              "RelativeToolTip": "SDL_Test\\MazeObject.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-29T14:44:59.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Coordinate.cpp",
-              "DocumentMoniker": "E:\\Linh\\project_game - Copy\\SDL_Test\\Coordinate.cpp",
+              "DocumentMoniker": "E:\\Linh\\project_game\\SDL_Test\\Coordinate.cpp",
               "RelativeDocumentMoniker": "SDL_Test\\Coordinate.cpp",
-              "ToolTip": "E:\\Linh\\project_game - Copy\\SDL_Test\\Coordinate.cpp",
+              "ToolTip": "E:\\Linh\\project_game\\SDL_Test\\Coordinate.cpp",
               "RelativeToolTip": "SDL_Test\\Coordinate.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-29T14:44:59.635Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 2,
               "Title": "MazeTrap.cpp",
-              "DocumentMoniker": "E:\\Linh\\project_game - Copy\\SDL_Test\\MazeTrap.cpp",
+              "DocumentMoniker": "E:\\Linh\\project_game\\SDL_Test\\MazeTrap.cpp",
               "RelativeDocumentMoniker": "SDL_Test\\MazeTrap.cpp",
-              "ToolTip": "E:\\Linh\\project_game - Copy\\SDL_Test\\MazeTrap.cpp",
+              "ToolTip": "E:\\Linh\\project_game\\SDL_Test\\MazeTrap.cpp",
               "RelativeToolTip": "SDL_Test\\MazeTrap.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-29T14:44:59.635Z"
             }

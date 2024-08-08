@@ -1,14 +1,6 @@
-﻿  Coordinate.cpp
+﻿  Player.cpp
   main.cpp
-  Maze.cpp
-  MazeDoor.cpp
-  MazeGuard.cpp
-  MazeKey.cpp
-  MazeObject.cpp
-  MazeTrap.cpp
-  Player.cpp
-  Room.cpp
   Generating Code...
-  SDL_Test.vcxproj -> E:\Linh\project_game - Copy\Debug\SDL_Test.exe
+  SDL_Test.vcxproj -> E:\Linh\project_game\Debug\SDL_Test.exe
   0 File(s) copied
   0 File(s) copied

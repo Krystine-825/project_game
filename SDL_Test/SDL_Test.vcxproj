@@ -152,6 +152,7 @@ xcopy /y /e /d  "$(ProjectDir)res" "$(SolutionDir)$(Configuration)\res"</Command
     <ClInclude Include="MazeObject.h" />
     <ClInclude Include="MazeTrap.h" />
     <ClInclude Include="Player.h" />
+    <ClInclude Include="resource.h" />
     <ClInclude Include="Room.h" />
   </ItemGroup>
   <ItemGroup>
@@ -165,6 +166,9 @@ xcopy /y /e /d  "$(ProjectDir)res" "$(SolutionDir)$(Configuration)\res"</Command
     <ClCompile Include="MazeTrap.cpp" />
     <ClCompile Include="Player.cpp" />
     <ClCompile Include="Room.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="SDL_Test.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
