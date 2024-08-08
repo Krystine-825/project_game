@@ -98,10 +98,10 @@ public:
 		else if (roomPos.yPos == room.roomPos.yPos)
 		{
 			if (roomPos.xPos < room.roomPos.xPos)
-				dir = right;
+				dir = directions::right;
 
 			else if (roomPos.xPos > room.roomPos.xPos)
-				dir = left;
+				dir = directions::left;
 		}
 		return dir;
 	}
