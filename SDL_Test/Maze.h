@@ -111,13 +111,13 @@ public:
 		case up:
 			pos.yPos--;
 			break;
-		case left:
+		case directions::left:
 			pos.xPos--;
 			break;
 		case down:
 			pos.yPos++;
 			break;
-		case right:
+		case directions::right:
 			pos.xPos++;
 			break;
 		}
@@ -126,7 +126,7 @@ public:
 	//Creates all the rooms and connects them
 	void CreateRooms()
 	{
-		directions allDir[] = { up, left, down, right };
+		directions allDir[] = { up, directions::left, down, directions::right };
 
 		//Creates all the rooms
 		for (int x = 0; x < mazeX_RoomCount; x++)
