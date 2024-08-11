@@ -14,10 +14,13 @@ Thư viện: SDL2.0
 Công cụ phát triển: Visual Studio, GitHub
 
 ## 4. Gameplay
-Gameplay: Trò chơi thuộc thể loại giải đố đơn giản 2D, với các màn chơi và độ khó vô tận được tạo dựa trên thuật toán Backtracking. 
+Gameplay: Trò chơi thuộc thể loại giải đố đơn giản 2D, với các màn chơi và độ khó vô tận được tạo dựa trên thuật toán Backtracking.
+![gameplay](https://github.com/user-attachments/assets/07b87048-cba9-4b2b-ac7e-39878a5f8086)
 
 ## 6. Đồ họa
 Đồ họa: Sử dụng đồ họa 2D của thư viện SDL.
+![gameplay1](https://github.com/user-attachments/assets/f22bbe26-4191-49bc-b403-6e51f4c7ac5a)
+
 
 ## 7. Tiến độ và kế hoạch phát triển
 Giai đoạn 1: Hoàn thành thiết kế gameplay cơ bản.
@@ -25,3 +28,4 @@ Giai đoạn 2: Phát triển các màn chơi.
 Giai đoạn 3: Tối ưu hóa hiệu suất và kiểm tra lỗi.
 Giai đoạn 4: Phát hành phiên bản beta và thu thập phản hồi từ người chơi.
 Giai đoạn 5: Phát hành phiên bản chính thức.
+![GameOver](https://github.com/user-attachments/assets/11c822d3-f444-4ca3-b02d-28f02145ff4d)
