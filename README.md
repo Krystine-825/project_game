@@ -1,7 +1,7 @@
 # Report
 ## 1. Giới thiệu
 Dự án game này được phát triển bởi Hoàng Linh(Tôi), MSV:22024567. Mục tiêu của dự án là tạo ra một trò chơi giải trí với gameplay giải đố, mang lại trải nghiệm giải trí vui vẻ cho người chơi.
-
+![title](https://github.com/user-attachments/assets/b904701c-75b3-4ee4-9d4a-d1ba936b0bf6)
 ## 2. Mục tiêu
 Tạo ra một trò chơi với cốt truyện hấp dẫn.
 Phát triển gameplay mượt mà và gây nghiện.
