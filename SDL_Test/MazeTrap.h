@@ -19,6 +19,7 @@ public:
 	~MazeTrap();
 
 	//Increments trap time and checks if trap state must change each cycle
+	//Gia co thoi gian cua bay va kiem tra trang thai cua bay phai thay doi moi vong lap
 	void NextCycle()
 	{
 		curTrapTime++;
@@ -30,6 +31,7 @@ public:
 	}
 	
 	//Sets trap texture based off of current trap state
+	//Thay doi cau truc cua bay dua tren trang thai hien tai cua chung
 	void SetTrapTexture()
 	{
 		if(curTrapTime == 0)
