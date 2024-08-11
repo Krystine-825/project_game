@@ -21,9 +21,9 @@ Gameplay: Trò chơi thuộc thể loại giải đố đơn giản 2D, với c�
 
 
 ## 7. Tiến độ và kế hoạch phát triển
-Giai đoạn 1: Hoàn thành thiết kế gameplay cơ bản.
-Giai đoạn 2: Phát triển các màn chơi.
-Giai đoạn 3: Tối ưu hóa hiệu suất và kiểm tra lỗi.
-Giai đoạn 4: Phát hành phiên bản beta và thu thập phản hồi từ người chơi.
-Giai đoạn 5: Phát hành phiên bản chính thức.
+- Giai đoạn 1: Hoàn thành thiết kế gameplay cơ bản.
+- Giai đoạn 2: Phát triển các màn chơi.
+- Giai đoạn 3: Tối ưu hóa hiệu suất và kiểm tra lỗi.
+- Giai đoạn 4: Phát hành phiên bản beta và thu thập phản hồi từ người chơi.
+- Giai đoạn 5: Phát hành phiên bản chính thức.
 ![GameOver](https://github.com/user-attachments/assets/11c822d3-f444-4ca3-b02d-28f02145ff4d)
