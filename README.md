@@ -1,5 +1,6 @@
 # Report
-## Link Demo:
+## Link Demo: https://drive.google.com/file/d/1OHyskjAcM45dtZZ0ufqao98GH_np6-rj/view?usp=drive_link
+
 ## Giới thiệu
 - Dự án game này được phát triển bởi Hoàng Linh(Tôi), MSV:22024567. Mục tiêu của dự án là tạo ra một trò chơi giải trí với gameplay giải đố, mang lại trải nghiệm giải trí vui vẻ cho người chơi.
 
