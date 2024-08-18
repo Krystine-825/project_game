@@ -17,7 +17,7 @@
 ## 0. Cách tải game
 ### a. Cách 1: Không bao gồm code.
 
-- Tải game (được nén thành .zip) tại link sau: https://drive.google.com/file/d/1WCvOlSiJlwg0byhJhQiZBQ0bzNVlASeN/view?usp=sharing<br/>
+- Tải game (được nén thành .zip) tại link sau: https://github.com/Krystine-825/project_game/releases/tag/pulished<br/>
 - Cách này tiết kiệm bộ nhớ và thời gian tải đi rất nhiều (khoảng 205MB).<br/>
 - Giải nén game vào một thư mục và bật SDL_Test.exe lên và chơi.<br/>
 
