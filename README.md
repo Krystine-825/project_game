@@ -68,3 +68,11 @@
    ![image](https://github.com/user-attachments/assets/f7126afd-b85c-42b2-a8f8-2aa180f0748e)
 - **Thất bại**:
 ![GameOver](https://github.com/user-attachments/assets/11c822d3-f444-4ca3-b02d-28f02145ff4d)
+
+
+**Nguồn tham khảo**:
+- Github
+- Lazyfool
+- Youtube
+- Pacman game
+
